@@ -1,0 +1,24 @@
+COMO CRIAR SEU PERFIL DE GITHUB PROFISSIONAL:
+Acesse o site github.com
+Crie seu perfil colocando seu Username
+Username -> Coloque seu nome e sobrenome, nada fora do comum que não te identifique.
+Coloque seu email que já tenha
+E crie uma senha bem segura
+Depois escolha a opção FREE (grátis)
+Após isto, escolha as opções que for ideal para você.
+
+Dica: Atualmente, em 2021, o GitHub se encontra em inglês,
+caso tenha dificuldades com a língua inglesa,
+consulte a tradução com a ajuda do Google Tradutor.
+
+Depois de concluir tudo, verifique seu email e confirme sua conta e pronto.
+
+ATUALIZANDO O PERFIL:
+Vá em SETTINGS --> PROFILE e coloque uma foto de perfil decente e seu nome com sobrenome.
+Se tiver já um Website, pode colocar, ou então mais pra frente crie o seu com GITHUB PAGES.
+Coloque o Twitter caso deseje e uma Bio que te descreva melhor.
+
+Na página principal aparece seus repositórios principais que você for criando,
+e no meio os quadrados significam a frequência com que você contribui
+com o seu perfil profissional, seja ajudando outras perfis com trabalhos e 
+comentários ou atualizando seu perfil com seus projetos.

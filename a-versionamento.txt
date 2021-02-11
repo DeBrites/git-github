@@ -1,0 +1,23 @@
+GIT E GITHUB:
+GIT é um VCS (Software de Controle de Versão).
+GITHUB é uma Plataforma de Rede Social para Programadores.
+
+Git serve para versionamento de software ou código.
+Com Git é mais fácil o controle de versões de arquivos
+diversos que podem ser disponibilzados em uma "nuvem",
+numa rede social, no GitHub.
+
+GitHub é a rede social feita para progrmadores
+onde normalmente se cria o portfólio dos próprios
+mostrando toda a sua experiência de programação,
+podendo criar repositórios (pastas de arquivos com códigos)
+privados ou disponível ao público.
+
+Com o Git e GitHub é possível ter um controle de histórico,
+ter trabalho em equipe, ramificar um projeto e depois juntar a ramificação,
+possui segurança para cada ramificação, e, uma melhor organização.
+
+Além disso, no GitHub pode criar Repositórios ilimitados,
+Hospedagem de código-fonte (qualquer linguagem de programação),
+possui GitHub Pages integrado (podendo criar seus sites personalizados),
+possui um sistema de Colaboração e a possibilidade de criar Forks.

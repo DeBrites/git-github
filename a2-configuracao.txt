@@ -1,0 +1,43 @@
+Configuração com Visual Studio Code, Git e GitHub Desktop.
+Por preferência seguirei com esses programas que me adequaram melhor.
+Siga os passo a passo para a melhor configuração possível com calma.
+
+VISUAL STUDIO CODE:
+Acesse code.visualstudio.com
+Faça o download da versão STABLE, por ser mais estável.
+Após o download, siga os passos do programa, mantendo a pasta,
+e na seção SELECT ADDITIONAL TASKS, 
+selecione as duas opções 'ADD "OPEN WITH CODE"...'
+E termine a instalação.
+
+	No Visual Studio Code, você pode baixar extensões que te auxiliam na programação.
+	No canto esquerdo, a última opção é de extensões, clique nele para baixar as mais importantes.
+	Escreva PORTUGUESE, vai aparecer Portuguese Brazil, instale e ele irá reiniciar
+	e abrir quase tudo em português.
+	Vá em ARQUIVO, e clique em SALVAR AUTOMATICAMENTE e deixe marcado,
+	isso ajuda em quesitos de produtividade.
+	Vá em ARQUIVO --> PREFERÊNCIAS --> CONFIGURAÇÕES, vai aparecer aba de configurações
+	Escreva nele WORD WRAP e tecle Enter, deixe em ON, pois irá organizar as linhas automáticamente
+	para a sua visualização.
+	Também é possível personalizar o fundo, ainda em configurações escreva THEME
+	e ele irá lhe dar algumas opções de fundo, escolha a melhor para você.
+
+GIT:
+Acesse git-scm.com
+Clique em download para a sua máquina e ele baixará automáticamente.
+Quando for seguir os passos do programa, siga os passos até o trecho
+CHOOSING THE DEFAULT EDITOR USED BY GIT 
+e selecione 'USE VISUAL STUDIO CODE AS GIT'S DEFAULT EDITOR'
+E depois siga para a instalação.
+Completando a instalação desmarque a opção VIEW RELEASES NOTES.
+
+	
+
+GITHUB DESKTOP:
+Acesse desktop.github.com
+Clique em download para a sua máquina.
+Abrindo esse app já vai abrir a tela de boas-vindas.
+Vá em SIGN IN TO GITHUB.COM e entre com o seu email do GitHub
+E já está todas as configurações prontas.
+
+

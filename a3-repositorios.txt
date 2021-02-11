@@ -1,0 +1,60 @@
+CRIANDO SEU PRIMEIRO REPOSITÓRIO LOCAL:
+No Git Hub Desktop, clique em CREATE A NEW REPOSITORY IN YOUR HARD DRIVE...
+Irá abrir uma caixa pedindo o nome deste repositório e sua descrição.
+Coloque o nome que desejar, mas como exemplo pode colocar "Ola Mundo"
+Em Description coloque "Primeiro repositório de Git e Github"
+No Local Path, coloque na pasta documento, que ja deve estar por padrao,
+e você pode nomear a pasta daí.
+Caso estiver documento/github, pode nomear como documento/meusprojetos
+Assim todos os repositórios podem ser guardados em meusprojetos.
+Marque a caixa INITIALIZE THIS REPOSITORY WITH A README
+License deixe em MIT LICENSE.
+E então clique em CREATE REPOSITORY.
+
+Assim que foi feito, agora terá uma pasta chamada Ola Mundo em seus Documentos
+dentro da pasta meusprojetos no seu PC.
+Este é o seu Repositório Local, ou seja, ainda não está no seu perfil do GitHub.
+
+PASSANDO SEU REPOSITÓRIO LOCAL PARA O REMOTO (GitHub):
+
+Ainda em GitHub Desktop, depois que criou seu repositório
+terá uma opção HISTORY (histórico), clicando nele vai perceber que
+ele já criou um Committed (Initial Commit)
+Volte para CHANGES e clique em PUBLISH REPOSITORY
+Nesse momento, vai aparecer nome e descrição, desmarque a opção abaixo
+de KEEP THIS CODE PRIVATE, desmarcando ele se tornará visível para o público.
+Clique em Publish Repository e ele já vai ter publicado no seu perfil.
+
+Ainda no GitHub Desktop, tem a opção de Abrir o Visual Studio Code,
+clicando nele, abre já o Visual Studio Code de forma rápida com o
+repositório Ola Mundo aberto e já gerenciando cada mudança de código,
+podendo visualizar e monitorar mudanças futuras e passadas que fizer.
+
+CRIANDO UM COMMIT:
+Um exemplo que você pode fazer é alterar o README, mudar algumas palavras
+e então verá como o Git reage nas alterações, mostrando como estava e como está.
+E, no Git Hub Desktop também aparecerá esta alteração.
+Porém isso só na sua máquina, ela não altera automaticamente no GitHub.
+Se quiser mudar no GitHub também, antes você precisa fazer um Commit no GitHub Desktop
+bem abaixo aparecerá duas caixas de texto, primeira caixa é o nome do Commit
+e segunda caixa a descrição.
+Na primeira pode colocar como exemplo, "Mudei o README"
+Na segunda pode colocar como exemplo, "Fiz algumas modificações no README"
+E clique em Commit.
+Assim estará enviando as informações para o Git, ele ainda não passou para o GitHub.
+
+CRIANDO UM PUSH:
+Agora para passar pro repositório remoto (GitHub), apenas clique em PUSH ORIGIN.
+E ele terá atualizado o seu perfil com o arquivo alterado.
+É possível alterar no próprio GitHub também, e o GitHub Desktop irá perceber
+quando clicar em FETCH ORIGIN, que irá analisar seu repositório remoto.
+Se tiver alterações no repositório remoto que você não fez no repositório local
+aparecerá a opção PULL ORIGIN e ele atualizará seus arquivos no PC mostrando
+as alterações feitas.
+
+Se criar arquivos, todo esse processo será feito, mantendo seu perfil sempre atualizado.
+
+Dica:	
+	Atalhos úteis para não precisar usar o mouse na hora de Commit e Push.
+	CTRL + Enter = COMMIT
+	CTRL + P = PUSH
