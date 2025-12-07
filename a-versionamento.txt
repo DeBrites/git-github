@@ -7,7 +7,7 @@ Com Git é mais fácil o controle de versões de arquivos
 diversos que podem ser disponibilzados em uma "nuvem",
 numa rede social, no GitHub.
 
-GitHub é a rede social feita para progrmadores
+GitHub é a rede social feita para programadores
 onde normalmente se cria o portfólio dos próprios
 mostrando toda a sua experiência de programação,
 podendo criar repositórios (pastas de arquivos com códigos)
